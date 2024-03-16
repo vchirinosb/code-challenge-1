@@ -6,4 +6,4 @@
 ## Tasks:
 - Resolutions defined independently in files: exercise1.py, exercise2.py, exercise3.py, exercise4.py and exercise4.py
 
-Last Update: 03.2024
+Last Update: 02.2024
